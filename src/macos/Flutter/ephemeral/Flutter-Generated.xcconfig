@@ -1,6 +1,6 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/odinsam/flutter
-FLUTTER_APPLICATION_PATH=/Users/odinsam/GitHub/flutter/bookkeeping/src
+FLUTTER_APPLICATION_PATH=/Users/odinsam/GitHub/flutter/bookkeeping/code
 COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_BUILD_DIR=build
 FLUTTER_BUILD_NAME=1.0.0
