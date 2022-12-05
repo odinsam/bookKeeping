@@ -10,7 +10,7 @@
 		</data>
 		<key>AppIcon60x60@2x.png</key>
 		<data>
-		MNA6Om2kzE2UK2cASqifjyQOcDk=
+		tjcA7jdMYhsNLHPJwSn/dUJfpJE=
 		</data>
 		<key>AppIcon76x76@2x~ipad.png</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		ScOiX6ERJD1j82XzP99Vx30qc2g=
+		tJ5e3sXnpJF8T7Cm3dQCM5zNrqU=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -44,9 +44,201 @@
 		<data>
 		sPhzGA41FQRsyiQc9b/v8rCOPg8=
 		</data>
+		<key>CSJAdSDK.bundle/Assets.car</key>
+		<data>
+		b912N07D+t5nRgAsjVpcvVY0YAQ=
+		</data>
+		<key>CSJAdSDK.bundle/Info.plist</key>
+		<data>
+		aYCDJM0PT3oIVITrFDzDqeTfghs=
+		</data>
+		<key>CSJAdSDK.bundle/ar.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GNULuM2d7J2sCW//QjLZWEbVwdo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/bu_dynamic_default.json</key>
+		<data>
+		MYcNUJ9PKCPTODjmXQ4h9KDz8mQ=
+		</data>
+		<key>CSJAdSDK.bundle/bu_logo@2x.data</key>
+		<data>
+		+mtwru9JejoXxD0IZqBa0U0UawM=
+		</data>
+		<key>CSJAdSDK.bundle/bu_logo@3x.data</key>
+		<data>
+		W2jGO8ru7N6WDPaAizhoT5zVVF4=
+		</data>
+		<key>CSJAdSDK.bundle/bu_slienceAudio.aiff</key>
+		<data>
+		v74jzRIcosmBtYPI2ZcLbyHgbog=
+		</data>
+		<key>CSJAdSDK.bundle/bu_ugen_data_01.json</key>
+		<data>
+		8tHaqlKEVMCdndBBjXffxcF2Gjc=
+		</data>
+		<key>CSJAdSDK.bundle/de.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xu8pfzrf4t0GUo4ZaJbmOeo2Isg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/en.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KkAM5BztK5NH0ALxQ0kYooBVQfQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/es.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kr82Kr2Z9Po6axsLI3jyq3ZnHSQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/fr.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c1DQvTJ7M/DK29HUsJr74M9zzuM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/hi.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IuTLcxObD0kNYlWUSJAHx/OofoA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/id.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hDSvmxAc6EbWddVlvZyNxicrQfo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/it.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+DSbSWHaax1FvE3y/jwEef9kQb0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/ja.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qxEpD88EdP3jCqmkUQPRxbnZDso=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/ko.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JJVEwIiZN6xkVN4bhVevDm315RQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/pt.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RRpZE6BMEB3creInEL5zVWfSKds=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/ru.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ERqSYV45XuJLHbpYM0joduYvGH0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/setup.txt</key>
+		<data>
+		ZM3A57y/v18OGzuvfRFEJO3U2Co=
+		</data>
+		<key>CSJAdSDK.bundle/th.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CjvLQomtHAcSTD6nOiKe8mrGsps=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/ugen_dsl_1473.json</key>
+		<data>
+		jPgftP8Tp54q+5xnmjbVWfPwvtk=
+		</data>
+		<key>CSJAdSDK.bundle/ugen_dsl_3682.json</key>
+		<data>
+		HmX9gEMDbDoZgmHlxrQxcKaUR00=
+		</data>
+		<key>CSJAdSDK.bundle/ugen_dsl_4760.json</key>
+		<data>
+		YKEUV/rxew2uQiIck2TsBGiyHCM=
+		</data>
+		<key>CSJAdSDK.bundle/version.txt</key>
+		<data>
+		CDYm6wBzMl52dXQwCpFSZPhodLA=
+		</data>
+		<key>CSJAdSDK.bundle/vi.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MrjJr0RoG6Iman1tJAhuRGCbvA0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/zh-Hans.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PzbnezRb7iR+KgXasyjqG5+Nix0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/zh-Hant.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X56OC5weccnZ3Ul2zuAFygjU+aU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		q9CLGScZBQ5/oFN8OmXMKCvAgSY=
+		tTi9e0cMkVtkxil9qICBu925FGM=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,23 +246,27 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		LTYoAIJttPsJg73Lt86pFF+59g4=
+		JNFR0dSPHSsvFOO2oPyoPDdK0KA=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		z0qJyTw8XDXd0sHHtAygmWdIdsk=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
-		vKJkVIcw+LGHFnKJGwrQwCREv68=
+		NGGb+atKeElavbF4vU7MYId/dtE=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		xTv4xP8BcRwkPdryaG5ai9porwI=
+		el2kj+7eDCRXEeGoZlXAbpJgQEY=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
 		mcmNrC70e/OT89y/p5EgxkVsLrs=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/fonts/bottomIcon.ttf</key>
+		<data>
+		TI/10Cw9F3NNlr08323l+tPAIuM=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/isolate_snapshot_data</key>
 		<data>
@@ -78,7 +274,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		bkGis4wxxiuPBxZFpQHzomblb28=
+		7vcRi9bvFxUn/p2HUj38S9Py8Z4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -94,7 +290,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		zDZgTosm85l84mQj13KOkiCj1Xo=
+		0yLOt+B2Pe11RrPuzoQkWHTUubw=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -162,7 +358,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
 		<data>
-		OGXl7Ab2KoxzWiXYr2gM+rT9+/M=
+		KOkaXDo2CDpKsFLgl1zz+aOCdZM=
 		</data>
 		<key>Frameworks/Flutter.framework/Modules/module.modulemap</key>
 		<data>
@@ -170,7 +366,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
 		<data>
-		tVDJZUZ3hah29lRU7pZKUpfARhY=
+		jiyIMptGNe3ZRSt+/ekchpxaI0g=
 		</data>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
 		<data>
@@ -178,7 +374,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XmTO5N/uXvKizKkc2I9Hyqywj58=
+		dByjNW1DClCfbr9xU6kL/9dRsyo=
+		</data>
+		<key>LICENSE</key>
+		<data>
+		Va1S8wKLCXt3oMK2dBq2DQ6Myjk=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -198,7 +398,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gJq/51xEB3DBPE4uRtCWA8IgU+nU4OInXcucHc+7LHU=
+			s5Bz7Xg9bhLMr+AmLBZa9oHma66tKKSVFvGePWwmek4=
 			</data>
 		</dict>
 		<key>AppIcon76x76@2x~ipad.png</key>
@@ -212,7 +412,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AEoy3gWP9qYgoO9B/TJ+ds3l0BjeIPnpqSTOD2FYeUA=
+			UuHS3WhIuO4SlOz1YfMEDrD56gVUkLHnNGR92Zs9U54=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -257,11 +457,239 @@
 			ZQ2gUxmWEdRgkn12jxaOmSDD+9/+PopRzqA3/yf4tK4=
 			</data>
 		</dict>
+		<key>CSJAdSDK.bundle/Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RCpiyhseqOkcZ7d3jJGjO4LCtZay6EEcRPQdxOOAsSg=
+			</data>
+		</dict>
+		<key>CSJAdSDK.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z+KUeCfboW9uCikV7PE63PKv3v5jQ3dR/9BgHA68ACI=
+			</data>
+		</dict>
+		<key>CSJAdSDK.bundle/ar.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EsOvhYUI6eQhWNVHv53ILEZEN8NidwCiM3hXwU/vC8w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/bu_dynamic_default.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5gCppphvFZfUtIqw7nBJdnwMBGJKsHSH7IEyylj8BcY=
+			</data>
+		</dict>
+		<key>CSJAdSDK.bundle/bu_logo@2x.data</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FcLQwj/fRQoBHL9SO/VdQ6fCdWj6lBxjAoP8HbOaaOM=
+			</data>
+		</dict>
+		<key>CSJAdSDK.bundle/bu_logo@3x.data</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ga6+snmS16+p0gfOTOTeZfA8E5NRQEMICArPOz0Rihc=
+			</data>
+		</dict>
+		<key>CSJAdSDK.bundle/bu_slienceAudio.aiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DWsomZiPM/47JpKBs9w/AAdB4pofnAkaiDL01VZGjDo=
+			</data>
+		</dict>
+		<key>CSJAdSDK.bundle/bu_ugen_data_01.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1D0JDAUvznjkIuN4pRb5qmcN3u6kE+g7S8TmJl0FIpI=
+			</data>
+		</dict>
+		<key>CSJAdSDK.bundle/de.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			U3qkgTYVhS16zuinWPQn7A/5oCUqIZbRE6ODwQA1DOg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/en.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Nzz+FmvKPhB8yl8qW+hbiBGzmzQ5V+PtVXxBU5Iurt4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/es.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VOM9uC4GTLRA+Tv/T+BWf/bTJszMqA/lPNEENAozDbE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/fr.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rpYFE96Gpv712rHAF7/QNbxBZAY9wdkkxe5r6BnxCLk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/hi.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MXQB4znzfN84Y8hgyDk6L14EIpmTgDEtIZm2ovN/XdA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/id.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YTey5wrqu9WrpoqA7JiOx1kSGPs/aRzvfrbX973uE7A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/it.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sc6joRk79pxIlDs2096IGUuIG8AcVNhWTOFQ8Su1vmc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/ja.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Rp7MbldY80sDrDjqk7tBuDVikjvA846roBZ282VRgT4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/ko.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pdZfm0+eu6A56GiYerScLe/+cVISLuGW3ppPbnPxz3U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/pt.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5vNAVsrvvabJS5qbzClRGkqM1kXtLtnuulJYKbXkilU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/ru.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fRMYQKt7iQg4y6oBN/qG1Qh6LxrIXDbVK5TJUbJzoTY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/setup.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vM2IxdHZV33CH67WhjzFydq4IsFZFtzRed5nq4T+8Dg=
+			</data>
+		</dict>
+		<key>CSJAdSDK.bundle/th.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qCX1N/+u0ArRro6e+J3OyK1yWVcMJ+3oaGdbiI4zRWI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/ugen_dsl_1473.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GoWzWkl6Y0o/1oWlWjjijjE/r1EbG5YZ9M4noNd8dcQ=
+			</data>
+		</dict>
+		<key>CSJAdSDK.bundle/ugen_dsl_3682.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pqiNnSmO+exqaIYS3N+JQGd+N/5gtC60KFs98SzPuk4=
+			</data>
+		</dict>
+		<key>CSJAdSDK.bundle/ugen_dsl_4760.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			L+8npJF7T9q71MtPV+qdtQiumdK7FyZdmxsfz2qCY9o=
+			</data>
+		</dict>
+		<key>CSJAdSDK.bundle/version.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TuSAX8QEwBXb0zfpkrovbCt6qzCehLK49Rj4i8JtSh4=
+			</data>
+		</dict>
+		<key>CSJAdSDK.bundle/vi.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OBRbtrJoB4A+mak9sFHT8l4GVGHnxbNOdYvClxzocEo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/zh-Hans.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eV3srF8drmUnFeXm/dlxS+lHN3sd2ZPHO3mCSSmcVK8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>CSJAdSDK.bundle/zh-Hant.lproj/BULanguage.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V4ADJcRupt14x+URlvpYwsZHKHZAU+H61D5hOPGbVWo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Frameworks/App.framework/App</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/XbZPtW2kyeWJKkb0Q3/zdSY4ry2aSrOfw7FAU569kI=
+			LMmdTBV5w77Wwlfbe4UhFMPcJjUi5u8s5yn9kxt21Gg=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -275,28 +703,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nL7Ik9oHiiS4KBA4aWMjOHjTll+pXj9BZK0FrTBKVc8=
+			WjQK2qg9RyAXaxe/1Of0Wnzwqg4vs4nhUoy31KO9o5c=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			N1l1WuIFoQj5OWpFFHvMI06T26k3Dw70FV8bCupTa7E=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zX4DZFvESy3Ue3y2JvUcTsv1Whl6t3JBYotHrBZfviE=
+			N8hkood0Cr300GFRAu9GAsBaSIZA31rwb86aNLTX6RY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cFYWQ+t+cN5QBkoNHcEHdDj70uBENdQC3V0Bz7yleBA=
+			2ePNhct6Is4DjRLL98q4HR1O6p4p8yQ5GP7Ix6GCv/o=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -304,6 +732,13 @@
 			<key>hash2</key>
 			<data>
 			BugRRJlkJdABYrpi+ZDcvZjsh+EPQ4Uf2ST65b83vlc=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/fonts/bottomIcon.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IMMXF5ArGdH4umBcoKCSrKt0nU1QFCPTmUWK6mlTnYQ=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/isolate_snapshot_data</key>
@@ -317,7 +752,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GR40EmxMUm75UukxZRF5/1syP1yNq8miyY1Lx1X/TWM=
+			Hl/BmeyqJ2HCqHM7nUl5yB7bpIcDdIUSLuewyYBSIeo=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -345,7 +780,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EWDH1q7ZAN2ZU+YJQpVJ7Ef4WhPGMwwtj9kUqJOmHcQ=
+			R7znxDHRNYiCI4KQ3a77HnSfSLpkL3wXZU7T7vfyYC4=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
@@ -464,7 +899,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b+JbId6nIq6mQpyXdAlBuQKyopRK8tMyFJ77P7Ornnw=
+			xAWjqEwiKSx9rHfD4LH362HnPPGmXdsRuiiORtCydeM=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Modules/module.modulemap</key>
@@ -478,7 +913,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DFs65kPQ+ieCaZSh9iXTquD4Z8x03qBfaQJpd/WsB0w=
+			nIxPSKBvWYv2g+QFq9eQsIkkUcbkaCvJIgZL3bZlwC8=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
@@ -486,6 +921,13 @@
 			<key>hash2</key>
 			<data>
 			sA+D9pONLsc1rI+XDHefj/KAY7kac9Ait6lUu4UjHDg=
+			</data>
+		</dict>
+		<key>LICENSE</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9eTpQvKsVyRk4dNdHme0HiTf84PVFV5ALROXQ0iILSE=
 			</data>
 		</dict>
 	</dict>

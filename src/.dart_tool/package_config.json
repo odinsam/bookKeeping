@@ -56,10 +56,22 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "flutter_pangle_ads",
+      "rootUri": "file:///Users/odinsam/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_pangle_ads-2.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///Users/odinsam/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "get",
+      "rootUri": "file:///Users/odinsam/flutter/.pub-cache/hosted/pub.flutter-io.cn/get-4.6.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
     },
     {
       "name": "lints",
@@ -146,7 +158,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2022-11-23T04:32:03.279015Z",
+  "generated": "2022-12-04T06:41:59.610795Z",
   "generator": "pub",
-  "generatorVersion": "2.18.2"
+  "generatorVersion": "2.18.5"
 }
